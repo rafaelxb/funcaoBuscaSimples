@@ -1,0 +1,15 @@
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\bin\Debug\net6.0\FuncaoBusca.exe
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\bin\Debug\net6.0\FuncaoBusca.deps.json
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\bin\Debug\net6.0\FuncaoBusca.runtimeconfig.json
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\bin\Debug\net6.0\FuncaoBusca.dll
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\bin\Debug\net6.0\FuncaoBusca.pdb
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.csproj.AssemblyReference.cache
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.AssemblyInfoInputs.cache
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.AssemblyInfo.cs
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.csproj.CoreCompileInputs.cache
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.dll
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\refint\FuncaoBusca.dll
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.pdb
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\FuncaoBusca.genruntimeconfig.cache
+C:\Users\rfxba\source\repos\FuncaoBusca\FuncaoBusca\obj\Debug\net6.0\ref\FuncaoBusca.dll
